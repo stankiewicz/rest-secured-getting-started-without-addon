@@ -3,7 +3,5 @@
   "description": "A sample integration showing possibilities of Rest Secured service",
   "repository": "https://github.com/stankiewicz/rest-secured-getting-started-without-addon",
   "keywords": ["python","swagger"],
-  "image": "heroku/python",
-  "addons": [
-  ]
+  "image": "heroku/python"
 }
