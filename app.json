@@ -6,6 +6,6 @@
   "image": "heroku/python",
   "success_url": "/",
   "scripts": {
-        "postdeploy": "set"
+        "postdeploy": "env"
       }
 }
